@@ -1,0 +1,61 @@
+LES ARCHIVES DE BRUMEVAL
+Le Livre des marées célestes — Français, 2e secondaire
+
+POUR ESSAYER LE JEU
+Décompresser cette archive, puis ouvrir index.html dans un navigateur.
+Le fichier contient tous les décors, le code et les textes. Aucune installation, aucune police distante et aucune connexion ne sont nécessaires pour jouer une fois le fichier obtenu.
+Sur les Chromebook des élèves, privilégier un lien vers la version hébergée.
+
+COMMANDES
+Flèches gauche/droite, A/D ou Q/D : marcher.
+E : examiner un indice proche ou franchir le passage à l’extrémité de la salle.
+C : carnet. M : carte. Échap : fermer une lecture.
+Les indices et passages sont aussi cliquables; l’accès direct aux indices évite les déplacements.
+Le bouton musical active une ambiance facultative. Les options permettent d’agrandir les textes et de réduire les animations.
+
+MISE EN LIGNE SUR GITHUB PAGES
+1. Créer ou choisir un dépôt destiné à ce jeu. Pour une première publication simple sur un compte GitHub gratuit, utiliser un dépôt public.
+2. Déposer le fichier index.html à la racine du dépôt (pas le ZIP) et enregistrer la modification.
+3. Dans Settings > Pages, sous Build and deployment, choisir Deploy from a branch.
+4. Sélectionner la branche contenant le fichier (souvent main), puis /(root), et Save.
+5. Attendre que GitHub affiche l’adresse publiée. Ouvrir cette adresse et vérifier le chargement du jeu.
+6. Ajouter cette adresse comme lien dans le devoir Classroom. Les élèves n’ont pas besoin d’un compte GitHub pour visiter une page publique.
+Ne pas partager l’adresse github.com du fichier source : utiliser l’adresse publiée par Pages.
+
+GOOGLE SITES
+Une fois le jeu hébergé, ajouter son URL dans un bouton « Jouer à Brumeval ».
+Il est également possible d’intégrer l’URL avec Insérer > Intégrer. L’ouverture dans un nouvel onglet offre davantage d’espace au jeu et simplifie le plein écran.
+Un dépôt de fichier HTML dans Google Drive n’est pas, à lui seul, un hébergement Web du jeu.
+
+DÉROULEMENT PÉDAGOGIQUE
+Durée proposée : 25 à 40 minutes, à ajuster après un essai en classe.
+Quatre salles; deux documents par salle; huit défis avec quatre choix chacun.
+Chaque réponse incorrecte reçoit une explication spécifique. Les indices guident la relecture.
+La dernière étape demande une conclusion, deux preuves et une justification écrite.
+La justification est conservée et exportée, mais n’est pas corrigée automatiquement.
+
+BILAN ET CLASSROOM
+À la fin, l’élève peut télécharger un bilan texte ou imprimer/enregistrer un PDF.
+Il ajoute ensuite lui-même ce fichier au devoir Classroom.
+Il n’y a pas de synchronisation Classroom ni de tableau de résultats centralisé.
+La progression reste dans le navigateur. Elle peut disparaître si les données de navigation sont effacées. Elle ne suit pas le compte scolaire d’un appareil à l’autre.
+Sur un appareil partagé, utiliser Options > Nouvelle partie avant le prochain élève.
+
+GUIDE ET CORRIGÉ
+Ouvrir « Accès enseignant » sur l’accueil, ou Options > Guide enseignant.
+Le guide contient les textes, le corrigé, les explications de tous les distracteurs et une justification finale possible.
+L’accès enseignant n’est pas protégé par mot de passe : cette version est conçue pour la pratique formative.
+
+VALIDATION DE CETTE VERSION
+Vérification dans Safari : accueil, affichage des lectures, déplacements au clavier, interaction E, réponse incorrecte et correcte, changement de salle.
+Vérifications automatisées : huit questions à quatre réponses, rétroactions, verrouillage et ouverture des passages, absence de double récompense, validation des preuves finales et création du bilan.
+Un essai sur un Chromebook scolaire reste à faire, notamment pour vérifier les règles de filtrage de l’établissement et les permissions de téléchargement.
+Ce fichier est prêt à héberger; aucune URL publique n’a été publiée dans cette livraison.
+
+RÉFÉRENCES OFFICIELLES POUR LA PUBLICATION
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+https://support.google.com/sites/answer/90569?hl=fr
+
+MISE À JOUR — DOCUMENTS MANUSCRITS
+Kalam Bold est intégrée au fichier HTML. Lettre signée, carnets et registre en écriture manuscrite. Notes de bas de page numérotées, appels cliquables et retour au texte, également dans les textes du guide enseignant. Licence de la police incluse.
